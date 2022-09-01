@@ -1,0 +1,8 @@
+org.elastos.elastoswallet
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+drawable ic_launcher_background
+layout activity_main
+string app_name
+style AppTheme
